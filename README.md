@@ -34,7 +34,7 @@ $ python3 fetcher.py
 ```
 Example
 ```
-$ python3 fetcher.py --id fids.txt --email bigbrother@minlove.com --password ilovethebigbrother
+$ python3 fetcher.py --id fids.txt --email bigbrother@miniluv.gov --password ilovethebigbrother
 ```
 # License
 MIT License

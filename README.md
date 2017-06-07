@@ -1,6 +1,6 @@
 # Facebook Messenger Status Fetcher  
 ![built with](https://img.shields.io/badge/Built%20with-Python%203-green.svg)  
-This fetcher monitoring people "online status" on Facebook, I've build this to collect some data about people's behavior in Facebook, that could be used to predict what a specific person are doing or where are this person.  
+This fetcher monitor users "online status" on Facebook, I've build this to collect some data about user's behavior in Facebook, that could be used to predict what a specific user are doing or where are this user.  
 
 ## Getting Started
 

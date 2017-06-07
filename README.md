@@ -43,7 +43,7 @@ MIT License
 
 # Contributing
 
-:+1::tada: Thank you for contribuite! :tada::+1:
+:+1::tada: Thank you, you've scrolled down here :tada::+1:
 
 Steps to contribute:
 

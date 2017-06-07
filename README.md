@@ -29,9 +29,7 @@ Now just run
 ```
 $ python3 fetcher.py
     --id File containing Facebook profiles ids
-
     --email Facebook login email
-    
     --password Facebook login password
 ```
 Example
